@@ -1,0 +1,24 @@
+* {
+    font-family: poppins;
+}
+
+.navbar-link {
+    color: #6A983C !important;
+}
+
+.drop {
+    height: auto;
+    width: 50%;
+}
+
+.link {
+    margin-left: 50px;
+}
+
+.fresh {
+    font-weight: bold;
+}
+
+.navbar3 {
+    font-size: 25px;
+}
