@@ -44,7 +44,7 @@ function HeaderSecond() {
               />
             </InputGroup>
             <Nav className="nav1">
-              <Nav.Link href="" className="link">
+              <Nav.Link href="" className="link"> 
             <span style={{'height':'500px'}}><BsFillPersonFill/></span>
               </Nav.Link>
               <Nav.Link eventKey={2} href="" className="link">

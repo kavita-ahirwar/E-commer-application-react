@@ -53,6 +53,7 @@
     display: flex;
     justify-content: flex-end;
     align-items: flex-end;
+    font-weight: bold;
 }
 
 .drop {
@@ -60,4 +61,9 @@
     width: 50%;
     justify-content: center;
     margin-right: 200px;
+}
+
+.btn {
+    font-weight: bold;
+    font-size: 17px;
 }
